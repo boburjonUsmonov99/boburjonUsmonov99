@@ -2,5 +2,6 @@ Computer Science student at USF
 
 Basic knowledge of Python and frontend
 
-Love music
+Personal website: https://boburusmonov.netlify.app
+
 
